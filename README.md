@@ -2,6 +2,7 @@
 Weather data simulator
 
 This python program will generate a weather report in a pipe delimited format as below.
+
 Moscow|55.76,37.62,152|2015-12-13T06:21:15.547000|Snow|-1|1012|111
 Karachi|24.86,67.01,10|2016-08-17T03:41:30.806000|Rain|+25|948|103
 Kolkata|22.57,88.36,14|2016-07-23T13:43:52.111000|Sunny|+35|922|68
