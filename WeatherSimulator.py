@@ -1,7 +1,7 @@
 '''
 Created on Dec 8, 2016
-This program generate the weater data for a random no of cities from a list of cities
-The latitude, longitude and elevation are fetched from internet through google api.
+This program generate the weather data for a random no of cities from a list of cities
+The latitude, longitude and elevation are fetched from internet using google api.
 Temperature, humidity and pressure are generated randomly with in the defined range.
 The weather condition is derived based on the temperature and humidity levels.
 @author: Ranjit Gouda
